@@ -8,6 +8,9 @@ target/
 .project
 .settings
 .springBeans
+.mvn
+mvnw
+mvnw.cmd
 
 ### IntelliJ IDEA ###
 .idea
